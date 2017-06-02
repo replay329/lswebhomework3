@@ -11,11 +11,25 @@
 
 ```
 
-My name is:
+My name is: Nial Montgomery / Replay329
 
-I like to:
+I like to: 
 
-I'm learning:
+Challenge myself and learn new things every day.
+Make music in my studio.
+Finally step up and learn to code after all these years.
+Hug my daughter and wife. 
+Use the Force. 
+Appreciate great graffiti.
+Make my own clothing designs.
+Maybe even get a little more sleep than I used to. 
+
+I'm learning: 
+
+To be open.... (whatever open may mean in any given circumstance)
+To appreciate what I have. 
+To appreciate what I don't need. 
+To resist Doritos. 
 
 ```
 
